@@ -186,3 +186,10 @@ main{
 .btn-signing-main{
     background-color: gray;
 }
+
+
+.robot-3d{
+    position: absolute;
+    top: 0;
+    right: -30%;
+}
